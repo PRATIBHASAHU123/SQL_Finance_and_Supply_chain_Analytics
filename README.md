@@ -11,7 +11,7 @@ This repository contains the code and SQL queries used for the Finance and Suppl
 💠 SubQueries
 💠 Common Table Expressions (CTEs)
 💠 Store Procedure.
-💠 Temperory Table 
+💠 Temporary Table 
 💠 Views
 💠 Window Functions
 💠 User Defined Function
